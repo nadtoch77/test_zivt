@@ -5,3 +5,4 @@ change line 4 from my computer in branch1
 line 5 from my computer
 line 6 from my computer
 line 7 from my computer in branch1
+line 7 from remote in branch main
